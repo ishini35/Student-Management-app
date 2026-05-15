@@ -124,9 +124,10 @@ When the user clicks a button:
 # 📸 Screenshots
 
 ## Application UI
-(Add your app screenshots here)
 
 ```md
-![Home Screen](screenshots/home.png)
-![Add Student](screenshots/add-student.png)
-![View Students](screenshots/view-students.png)
+![Home Screen](screenshots/home.jpeg)
+![Add Student](screenshots/add-student.jpeg)
+![View Students](screenshots/view-students.jpeg)
+![Delete Student](screenshots/delete-student.jpeg)
+![Edit Student](screenshots/edit-student.jpeg)
